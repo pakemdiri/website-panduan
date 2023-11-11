@@ -1,0 +1,28 @@
+site_name: My Docs
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.path
+    - navigation.sections
+    
+nav:
+- Home: 'index.md'
+- Pengantar:
+  - 'pengantar/komponen.md'
+  - 'pengantar/hak-digital.md'
+  - 'pengantar/bentuk-serangan-digital.md'
+  - 'pengantar/mitigasi.md'
+  - 'pengantar/data-serangan.md'
+  - Bagaimana Internet Bekerja:
+    - 'pengantar/internet.md'
+    - 'pengantar/cara-kerja-internet.md'
+  - Jejak Digital:
+    - 'pengantar/data.md'
+- Kebersihan Perangkat:
+  - 'a'
+- Manajemen Identitas:
+  - 'a'
+- Keamnan Komunikasi:
+  - 'a'
