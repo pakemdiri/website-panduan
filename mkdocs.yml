@@ -16,12 +16,21 @@ nav:
   - 'pengantar/mitigasi.md'
   - 'pengantar/data-serangan.md'
   - Bagaimana Internet Bekerja:
-    - 'pengantar/internet.md'
-    - 'pengantar/cara-kerja-internet.md'
+    - 'internet/internet-apa.md'
+    - 'internet/cara-kerja-internet.md'
+    - 'internet/vpn.md'
+    - 'internet/proxy.md'
   - Jejak Digital:
     - 'pengantar/data.md'
 - Kebersihan Perangkat:
-  - 'a'
+    - 'kebersihan-perangkat/informasi.md'
+    - 'kebersihan-perangkat/keamanan.md'
+    - 'kebersihan-perangkat/privasi.md'
+    - Pelindung Perangkat:
+      - 'a'
+    - Pembersih Perangkat:
+      - 'a'
+      
 - Manajemen Identitas:
   - 'a'
 - Keamnan Komunikasi:
