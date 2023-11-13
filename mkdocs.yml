@@ -23,13 +23,18 @@ nav:
   - Jejak Digital:
     - 'pengantar/data.md'
 - Kebersihan Perangkat:
-    - 'kebersihan-perangkat/informasi.md'
-    - 'kebersihan-perangkat/keamanan.md'
-    - 'kebersihan-perangkat/privasi.md'
+    - Mengenal Perangkat:
+      - 'kebersihan-perangkat/informasi.md'
+      - 'kebersihan-perangkat/keamanan.md'
+      - 'kebersihan-perangkat/privasi.md'
     - Pelindung Perangkat:
-      - 'a'
+      - 'kebersihan-perangkat/pelindung.md'
     - Pembersih Perangkat:
-      - 'a'
+      - 'kebersihan-perangkat/kebersihan/tampilan.md'
+      - 'kebersihan-perangkat/kebersihan/berkas.md'
+      - 'kebersihan-perangkat/kebersihan/jejak-koneksi.md'
+      - 'kebersihan-perangkat/berkas.md'
+      - 'kebersihan-perangkat/jejak-koneksi.md'
       
 - Manajemen Identitas:
   - 'a'
