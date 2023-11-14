@@ -22,6 +22,9 @@ nav:
     - 'internet/proxy.md'
   - Jejak Digital:
     - 'pengantar/data.md'
+  - Dasar Keamanan Digital:
+    - 'pengantar/risiko.md'
+  
 - Kebersihan Perangkat:
     - Mengenal Perangkat:
       - 'kebersihan-perangkat/informasi.md'
@@ -37,6 +40,14 @@ nav:
       - 'kebersihan-perangkat/jejak-koneksi.md'
       
 - Manajemen Identitas:
-  - 'a'
-- Keamnan Komunikasi:
+  - Mengelola Identitas Digital:
+    - 'manajemen-identitas/kebocoran-data.md'
+    - 'manajemen-identitas/privasi.md'
+  - Mengamankan Identitas Digital:
+    - 'manajemen-identitas/pengelola.md'
+    - 'manajemen-identitas/sandi.md'
+    - 'manajemen-identitas/mfa.md'
+
+
+- Keamanan Komunikasi:
   - 'a'
