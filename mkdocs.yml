@@ -6,48 +6,58 @@ theme:
     - navigation.tabs
     - navigation.path
     - navigation.sections
-    
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
 nav:
-- Home: 'index.md'
-- Pengantar:
-  - 'pengantar/komponen.md'
-  - 'pengantar/hak-digital.md'
-  - 'pengantar/bentuk-serangan-digital.md'
-  - 'pengantar/mitigasi.md'
-  - 'pengantar/data-serangan.md'
-  - Bagaimana Internet Bekerja:
-    - 'internet/internet-apa.md'
-    - 'internet/cara-kerja-internet.md'
-    - 'internet/vpn.md'
-    - 'internet/proxy.md'
-  - Jejak Digital:
-    - 'pengantar/data.md'
-  - Dasar Keamanan Digital:
-    - 'pengantar/risiko.md'
-  
-- Kebersihan Perangkat:
-    - Mengenal Perangkat:
-      - 'kebersihan-perangkat/informasi.md'
-      - 'kebersihan-perangkat/keamanan.md'
-      - 'kebersihan-perangkat/privasi.md'
-    - Pelindung Perangkat:
-      - 'kebersihan-perangkat/pelindung.md'
-    - Pembersih Perangkat:
-      - 'kebersihan-perangkat/kebersihan/tampilan.md'
-      - 'kebersihan-perangkat/kebersihan/berkas.md'
-      - 'kebersihan-perangkat/kebersihan/jejak-koneksi.md'
-      - 'kebersihan-perangkat/berkas.md'
-      - 'kebersihan-perangkat/jejak-koneksi.md'
-      
-- Manajemen Identitas:
-  - Mengelola Identitas Digital:
-    - 'manajemen-identitas/kebocoran-data.md'
-    - 'manajemen-identitas/privasi.md'
-  - Mengamankan Identitas Digital:
-    - 'manajemen-identitas/pengelola.md'
-    - 'manajemen-identitas/sandi.md'
-    - 'manajemen-identitas/mfa.md'
+  - Home: "index.md"
+  - Pengantar:
+      - "pengantar/komponen.md"
+      - "pengantar/hak-digital.md"
+      - "pengantar/bentuk-serangan-digital.md"
+      - "pengantar/mitigasi.md"
+      - "pengantar/data-serangan.md"
+      - Bagaimana Internet Bekerja:
+          - "internet/internet-apa.md"
+          - "internet/cara-kerja-internet.md"
+          - "internet/vpn.md"
+          - "internet/proxy.md"
+      - Jejak Digital:
+          - "pengantar/jejak-digital.md"
+      - Dasar Keamanan Digital:
+          - "pengantar/risiko.md"
 
+  - Kebersihan Perangkat:
+      - "kebersihan-perangkat/index.md"
+      - Mengenal Perangkat:
+          - "kebersihan-perangkat/informasi.md"
+      - Pelindung Perangkat:
+          - "kebersihan-perangkat/pelindung.md"
+      - Pembersih Perangkat:
+          - "kebersihan-perangkat/kebersihan/tampilan.md"
+          - "kebersihan-perangkat/kebersihan/berkas.md"
+          - "kebersihan-perangkat/kebersihan/jejak-koneksi.md"
+          - "kebersihan-perangkat/berkas.md"
+          - "kebersihan-perangkat/jejak-koneksi.md"
 
-- Keamanan Komunikasi:
-  - 'a'
+  - Manajemen Identitas:
+      - Mengelola Identitas Digital:
+          - "manajemen-identitas/kebocoran-data.md"
+          - "manajemen-identitas/privasi.md"
+      - Mengamankan Identitas Digital:
+          - "manajemen-identitas/pengelola.md"
+          - "manajemen-identitas/sandi.md"
+          - "manajemen-identitas/mfa.md"
+
+  - Keamanan Komunikasi:
+      - "a"

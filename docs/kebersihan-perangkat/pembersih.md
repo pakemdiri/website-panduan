@@ -1,1 +1,1 @@
-# Mengenal Perangkat
+# Membersihkan Perangkat
